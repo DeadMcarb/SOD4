@@ -1,4 +1,4 @@
-package fgbhnhj;
+package org.example.tree;
 
 public class Node<T extends Comparable<T>> {
     private T key;

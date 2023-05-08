@@ -1,6 +1,6 @@
-package fgbhnhj;
+package org.example;
 
-import tree.Tree;
+import org.example.tree.Tree;
 
 import java.util.Random;
 import java.util.Scanner;

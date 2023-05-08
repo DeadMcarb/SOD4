@@ -1,6 +1,4 @@
-package fgbhnhj;
-
-import tree.Node;
+package org.example.tree;
 
 import java.util.Comparator;
 
